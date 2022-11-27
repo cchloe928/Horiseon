@@ -72,6 +72,9 @@ p {
 .content {
     display: flex;
     margin-left: 20px;
+    width: 100%;
+    flex-direction: row;
+    box-sizing: border-box;
 }
 
 .benefits {
@@ -199,5 +202,6 @@ p {
 }
 
 .content-box1 {
-    width: 75%;
+    width: 25%;
+    margin-right: 25px;
 }

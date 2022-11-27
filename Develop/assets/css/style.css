@@ -70,11 +70,9 @@ p {
 }
 
 .content {
-    display: flex;
+    width: 75%;
+    display: inline-block;
     margin-left: 20px;
-    width: 100%;
-    flex-direction: row;
-    box-sizing: border-box;
 }
 
 .benefits {
@@ -82,7 +80,7 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 100%;
+    width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -199,9 +197,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
-
-.content-box1 {
-    width: 25%;
-    margin-right: 25px;
 }

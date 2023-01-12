@@ -1,7 +1,6 @@
 # Module 1 Challenge : Challenges in This Course Challenge Types
 
 ## Task
-
 There are two types of challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
 The two types of challenges are the following:
@@ -10,7 +9,6 @@ The two types of challenges are the following:
 
 
 ## Challenge Elements
-
 Challenges adhere to a format that's commonly used by software development teams that use agile project management to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer.
 
 Each Challenge contains the following elements:
@@ -25,7 +23,6 @@ Each Challenge contains the following elements:
 
 
 ## HTML CSS Git Challenge: Code Refactor
-
 This week is an odd-numbered week, so your Challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: accessibility.
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
@@ -38,7 +35,6 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 
 ## User Story
-
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -47,7 +43,6 @@ SO THAT our own site is optimized for search engines
 
 
 ## Acceptance Criteria
-
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -64,12 +59,10 @@ THEN I find a concise, descriptive title
 
 
 ## Mock-Up
-
 The following image shows the web application's appearance and functionality: (/assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Grading Requirements
-
 This Challenge is graded based on the following criteria:
 
 **Technical Acceptance Criteria: 40%**
@@ -96,7 +89,6 @@ This Challenge is graded based on the following criteria:
 
 
 ## How to Submit the Challenge
-
 You are required to submit BOTH of the following for review:
 * The URL of the deployed application.
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
